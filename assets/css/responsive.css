@@ -9,7 +9,10 @@
 		border-radius: 2px;
 		bottom: unset;
 	}
-	
+	#privacy-laws{
+		padding: 0;
+		margin: 10px;
+	}
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -27,7 +30,9 @@
 		border: none !important;
 		padding-left: 0 !important;
 	}
-	
+	#privacy-laws{
+		padding: 0;
+	}
 }
 
 /* Large devices (laptops/desktops, 992px and up) */

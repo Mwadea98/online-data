@@ -107,6 +107,38 @@ li, p{
 	object-fit: cover;
 }
 
+.info-area{
+	height:80vh;
+	display: flex;
+	align-items: center;
+}
+
+#surveillance .highlight{
+	border-left: 4px solid lightgreen;
+	padding-left: 10px;
+}
+
+#surveillance .economies{
+	padding: 100px 0px;
+}
+
+#privacy-laws{
+	margin: 100px;
+	padding: 0 100px;
+}
+
+#privacy-laws ol li{
+	margin-top: 10px;
+}
+
+#lookalike-section {}
+
+#lookalike-section p{
+	font-size: 13px;
+	text-align: justify;
+	line-height: 2;
+}
+
 #info-section{
 	padding: 50px 0;
 }
